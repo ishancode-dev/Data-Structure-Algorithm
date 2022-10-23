@@ -41,7 +41,7 @@ Unmark position (i, j), i.e output[i][j] = 0.
 
 ## Implementation
 
-- [C++](/Rat%20in%20a%20Maze.cpp)
+- [C++](Rat%20in%20a%20Maze.cpp)
 - [C#]()
 - [Java]()
  
